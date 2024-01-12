@@ -17,3 +17,5 @@ You can install these dependencies using the following command:
 
 ```bash
 pip install pandas scikit-learn matplotlib
+```
+
